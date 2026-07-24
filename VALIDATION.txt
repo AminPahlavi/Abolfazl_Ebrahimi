@@ -1,0 +1,17 @@
+ABOLFAZL EBRAHIMI INDEX VALIDATION
+==================================
+Entries: 400
+Direct posts: 140
+Replies: 130
+Quote-posts: 130
+Reference links: 25
+Quote texts adjusted to fit X: 130
+Incomplete sentences: 0
+Leading punctuation errors: 0
+Incorrect mention pairs: 0
+Missing campaign hashtags: 0
+Quote texts above 255 characters: 0
+Quote URLs mismatching text: 0
+
+The direct-post and reply texts remain the approved long versions.
+Quote-post texts were shortened only as necessary to preserve complete sentences and fit the X character limit when the reference URL is included.

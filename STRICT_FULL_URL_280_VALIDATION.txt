@@ -1,0 +1,29 @@
+ABOLFazl EBRAHIMI STRICT FULL-URL VALIDATION
+===========================================
+
+Rule used
+---------
+For every quote-post, the count is:
+quote text + exactly two line breaks + complete visible source URL
+
+The t.co 23-character URL rule was NOT used.
+
+Results
+-------
+Direct posts checked: 140
+Replies checked: 130
+Quote-posts checked: 130
+Quotes above 280 literal characters: 0
+Maximum quote payload: 273 characters (item 370)
+Texts beginning with punctuation: 0
+URL payload mismatches: 0
+
+ARDESHIR005 reference check
+---------------------------
+Quote item: 286
+Literal payload count: 248
+Text:
+Reports place 18-year-old Abolfazl Ebrahimi under a death sentence connected to the Alikhani Square case. Keep his case in public view. @Reuters @amnesty #Abolfazl_Ebrahimi #StopExecutionsInIran
+
+Reference:
+https://x.com/ARDESHIR005/status/2074940308026999035

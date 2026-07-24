@@ -1,0 +1,28 @@
+ABOLFazl EBRAHIMI LITERAL 280 VALIDATION
+=======================================
+
+Entries checked: 400
+Direct posts: 140
+Replies: 130
+Quote-posts: 130
+Quote-posts rewritten for literal full-URL counting: 130
+
+Validation rule used
+--------------------
+For every quote-post, the literal character count of:
+text + two line breaks + the complete reference URL
+was required to be 280 characters or fewer.
+
+Results
+-------
+Quote-posts above 280 including the full visible URL: 0
+Incomplete quote sentences: 0
+Texts beginning with punctuation: 0
+Colon artifacts: 0
+Incorrect mention pairs: 0
+Missing campaign hashtags: 0
+Missing age or Alikhani Square reference: 0
+URL/text mismatches: 0
+
+Maximum literal quote payload: 273
+Minimum literal quote payload: 219
